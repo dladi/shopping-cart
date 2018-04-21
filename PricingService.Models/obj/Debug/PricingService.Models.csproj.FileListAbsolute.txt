@@ -1,0 +1,4 @@
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Models\bin\Debug\PricingService.Models.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Models\bin\Debug\PricingService.Models.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Models\obj\Debug\PricingService.Models.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Models\obj\Debug\PricingService.Models.pdb

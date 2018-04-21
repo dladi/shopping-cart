@@ -1,0 +1,8 @@
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\bin\Debug\Messages.resx
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\bin\Debug\Messages.Designer.cs
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\bin\Debug\PricingService.Resources.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\bin\Debug\PricingService.Resources.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\obj\Debug\PricingService.Resources.Messages.resources
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\obj\Debug\PricingService.Resources.csproj.GenerateResource.Cache
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\obj\Debug\PricingService.Resources.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Resources\obj\Debug\PricingService.Resources.pdb

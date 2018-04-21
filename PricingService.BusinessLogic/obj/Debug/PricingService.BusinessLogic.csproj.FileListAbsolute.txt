@@ -1,0 +1,15 @@
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.BusinessLogic.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.BusinessLogic.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\obj\Debug\PricingService.BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\obj\Debug\PricingService.BusinessLogic.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\obj\Debug\PricingService.BusinessLogic.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Interfaces.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Models.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Interfaces.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Models.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\StructureMap.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\StructureMap.xml
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\Messages.resx
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\Messages.Designer.cs
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Resources.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.BusinessLogic\bin\Debug\PricingService.Resources.pdb

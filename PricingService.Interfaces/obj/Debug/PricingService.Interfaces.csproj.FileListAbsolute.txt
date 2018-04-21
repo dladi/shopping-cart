@@ -1,0 +1,7 @@
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\bin\Debug\PricingService.Interfaces.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\bin\Debug\PricingService.Interfaces.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\obj\Debug\PricingService.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\obj\Debug\PricingService.Interfaces.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\obj\Debug\PricingService.Interfaces.pdb
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\bin\Debug\PricingService.Models.dll
+c:\users\dladi\documents\visual studio 2015\Projects\PricingService\PricingService.Interfaces\bin\Debug\PricingService.Models.pdb
